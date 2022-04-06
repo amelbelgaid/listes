@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercice</title>
+</head>
+<body>
+    <h1>Mes sites préférés</h1> 
+    <p>Vous trouverez ici les sites que j'utilise le plus souvent ! </p>
+    <p><b>Liste numérotée (par ordre de préférence)</b></p>
+    <ol>
+        <li><a href="https://www.canva.com"><p>Canva</p></a><p>Super pour mettre en forme vos projets</p></li>
+        <li><a href="https://www.fnacspectacles.com"><p>Fnac Billeterie</p></a><p>A consulter régulièrement pour ne rien rater</p></li>
+        <li><a href="https://www.netflix.com/fr/"><p>Netflix</p></a><p>Incontournable</p></li>
+        <li><a href="https://www.pinterest.fr"><p>Pinterest</p></a><p>Pour trouver l'inspiration</p></li>
+    </ol>
+    <p><b>Liste non numérotée</b></p>
+    <ul>
+    <li><a href="https://www.canva.com"><p>Canva</p></a><p>Super pour mettre en forme vos projets</p></li>
+    <li><a href="https://www.fnacspectacles.com"><p>Fnac Billeterie</p></a><p>A consulter régulièrement pour ne rien rater</p></li>
+    <li><a href="https://www.netflix.com/fr/"><p>Netflix</p></a><p>Incontournable</p></li>
+    <li><a href="https://www.pinterest.fr"><p>Pinterest</p></a><p>Pour trouver l'inspiration</p></li>
+</ul>
+ </body>
+</html>
